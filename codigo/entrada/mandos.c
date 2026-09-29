@@ -14,7 +14,7 @@
 #include "depuracion/medidor_rendimiento.h"
 #endif
 
-#define PUERTOS_PS2 2
+#define PUERTOS_PS2 4
 
 enum { PUERTO_CERRADO, ESTABLE_ESPERA_PUERTO, MODO_ESPERA_PUERTO, LISTO_PUERTO };
 
